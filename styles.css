@@ -1,0 +1,24 @@
+#MainTitle {
+    background-color: blanchedalmond;
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    background-color: antiquewhite;
+    color: blueviolet;
+    text-align: center;
+}
+
+.Appetizers,
+.MainDishes,
+.Desserts {
+    text-align: justify;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: darkkhaki;
+}
